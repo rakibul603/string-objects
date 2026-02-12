@@ -1,22 +1,26 @@
-// const country = 'bangladesh';
+// const country = 'Bangladesh';
 
-// const division = 'newkhale';
+// const division = "Newkhale";
 
 // const district = `B-Baria`;
 
-// const thana = new String('Demra');
+
+// const thana = new String('demra');
+
 
 // console.log(typeof thana)
 
-// console.log(thana)
+const numbers = [12, 44, 23, 5,34];
 
-// const number = [34, 55, 23, 65];
+// console.log(numbers[0])
 
-// console.log(number.length)
+numbers[1] = 11;
+console.log(numbers)
 
-// console.log(number[1])
+const city = "dhaka";
+city[0] = "f"
 
-const captial = 'Dh aka';
 
-console.log(captial.length)
-console.log(captial[3])
+console.log(city)
+console.log(city.length)
+console.log(city[3])
